@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlopexMM
 - 👀 I’m interested in security and sysadmin
-- 🌱 I’m currently learning Python, C++, Ethical Hackin
+- 🌱 I’m currently learning Python, C++, Ethical Hacking
 - 💞️ I’m looking to collaborate on security projects
 - 📫 How to reach me at mariomori00@gmail.com and AlopexMM#0983 (discord)
 
