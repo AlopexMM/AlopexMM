@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlopexMM
 - 👀 I’m interested in security and sysadmin
 - 🌱 I’m currently learning Python, Docker, Ansible
-- 📫 How to reach me at mariomori00@gmail.com and AlopexMM#0983 (discord)
+- 📫 How to reach me at mmori@alopexmm.ar and AlopexMM#0983 (discord)
 
 <!---
 AlopexMM/AlopexMM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
