@@ -7,7 +7,7 @@ Application repos:
 - [Scanntech Operaciones](https://github.com/AlopexMM/scanntech-apps)
 
 Docker repos:
-- [Shiny Server](https://github.com/AlopexMM/shiny-server)
+- [Shiny Server](https://hub.docker.com/repository/docker/alopexmm/shiny-server)
 
 <!---
 AlopexMM/AlopexMM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
