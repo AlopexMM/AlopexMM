@@ -6,6 +6,9 @@
 Application repos:
 - [Scanntech Operaciones](https://github.com/AlopexMM/scanntech-apps)
 
+Py modules
+- [Fiscal Tools](https://github.com/AlopexMM/fiscal-tools)
+
 Docker repos:
 - [Shiny Server](https://hub.docker.com/repository/docker/alopexmm/shiny-server)
 
