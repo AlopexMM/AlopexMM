@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlopexMM
-- 👀 I’m interested in security and sysadmin
-- 🌱 I’m currently learning Python, Docker, Ansible
+- 👋 Hi, I’m @AlopexMM, Mario Mori
+- 👀 I’m interested in security and testing
+- 🌱 I’m currently learning Python, Docker, nodejs
 - 📫 How to reach me at mmori@alopexmm.ar and AlopexMM#0983 (discord)
 
 Application repos:
