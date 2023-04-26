@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlopexMM, Mario Mori
 - 👀 I’m interested in security and testing
 - 🌱 I know how to develop and script in Python, Docker, nodejs, Kotlin, Groovy, Bash
-- 📫 How to reach me at mmori@alopexmm.ar and AlopexMM#0983 (discord)
+- 📫 How to reach me at mariomori00@gmail.com and AlopexMM#0983 (discord)
 
 Application repos:
 - [Scanntech Operaciones](https://github.com/AlopexMM/scanntech-apps)
