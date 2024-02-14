@@ -3,7 +3,7 @@
 - 🌱 I know how to develop and script in Python, Docker, NodeJS, VueJS, Groovy, Bash
 - 📫 How to reach me at mario_mori@hotmail.com and AlopexMM#0983 (discord)
 
-Running aplication:
+Running application:
 - [Calculadora Financiera](https://calculadora-financiera.alopexmm.ar)
 
 Application repos:
