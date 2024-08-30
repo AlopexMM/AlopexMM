@@ -4,11 +4,12 @@
 - 📫 How to reach me at mario_mori@hotmail.com and AlopexMM#0983 (discord)
 
 Running application:
-- [Calculadora Financiera](https://calculadora-financiera.alopexmm.ar)
+- [Pokemon creator](https://pokemon-creator.alopexmm.ar)
+- [Blog](https://blog.alopexmm.ar)
 
 Application repos:
 - [Scanntech Operaciones](https://github.com/AlopexMM/scanntech-apps)
-- [Calculadora Financiera](https://github.com/AlopexMM/calculadora-financiera)
+- [Pokemon creator](https://github.com/AlopexMM/pokemon-creator)
   
 Py modules
 - [Fiscal Tools](https://github.com/AlopexMM/fiscal-tools)
