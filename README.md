@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @AlopexMM, Mario Mori
+- 👋 Hi, I’m @VulpesMM, Mario Mori
 - 👀 I’m interested in security and testing
 - 🌱 I know how to develop and script in Python, Docker, NodeJS, VueJS, Groovy, Bash
 - 📫 How to reach me at mario_mori@hotmail.com and AlopexMM#0983 (discord)
-
-Running application:
-- [Pokemon creator](https://pokemon-creator.alopexmm.ar)
-- [Blog](https://blog.alopexmm.ar)
 
 Application repos:
 - [Scanntech Operaciones](https://github.com/AlopexMM/scanntech-apps)
