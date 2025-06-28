@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VulpesMM, Mario Mori
+- 👋 Hi, I’m @Kitsumori, Mario Mori
 - 👀 I’m interested in security and testing
 - 🌱 I know how to develop and script in Python, Docker, NodeJS, VueJS, Groovy, Bash
 - 📫 How to reach me at mario_mori@hotmail.com and AlopexMM#0983 (discord)
